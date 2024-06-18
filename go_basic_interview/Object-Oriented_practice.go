@@ -41,14 +41,14 @@ func Quack(d Duck) {
 	d.Quack()
 }
 
-func main() {
-	//yd := YellowDuck{}
-	//nd := NormalDuck{}
-	//Quack(yd)
-	//Quack(nd)
-
-	a := &Animal{}
-	c := &Cat{}
-	a.eat()
-	c.eat()
-}
+//func main() {
+//	//yd := YellowDuck{}
+//	//nd := NormalDuck{}
+//	//Quack(yd)
+//	//Quack(nd)
+//
+//	a := &Animal{}
+//	c := &Cat{}
+//	a.eat()
+//	c.eat()
+//}
